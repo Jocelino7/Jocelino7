@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development with android/jetpack compose
 - 🌱 I’m currently learning deepest thing of android development ...
 - 💞️ I’m looking to collaborate on android development projects...
-- 📫 How to reach me: email:jocelinofernandes86@gmail.com, linkedin:Jocelino Fernandes, phone number:+244 937-808-946
+- 📫 How to reach me: email:jocelinofernandes86@gmail.com, linkedin:[Jocelino Fernandes](https://www.linkedin.com/in/jocelino-fernandes-3a41a2239/), phone number:+244 937-808-946
 
 <!---
 Jocelino7/Jocelino7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
